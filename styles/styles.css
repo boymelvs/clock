@@ -45,7 +45,7 @@ body {
    background-image: url("../images/clock-number.svg");
    background-repeat: no-repeat;
    background-position: center;
-   background-size: 85%;
+   background-size: 88%;
    width: 50rem;
    height: 50rem;
    border: 3.5rem solid black;
@@ -99,7 +99,7 @@ body {
 
 .minute_hand {
    width: 17rem;
-   height: 2rem;
+   height: 2.2rem;
 }
 
 .second_hand {
