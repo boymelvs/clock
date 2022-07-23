@@ -93,13 +93,13 @@ body {
 }
 
 .hour_hand {
-   width: 14rem;
-   height: 3rem;
+   width: 11rem;
+   height: 2.5rem;
 }
 
 .minute_hand {
-   width: 20rem;
-   height: 1.5rem;
+   width: 17rem;
+   height: 2rem;
 }
 
 .second_hand {
