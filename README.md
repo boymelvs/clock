@@ -1,4 +1,4 @@
-# KODEGOPH BOOTCAMP
+# ANALOG CLOCK
 
 ## Table of contents
 
@@ -21,7 +21,7 @@ The project is about to build analog clock
 
 ### Links
 
--  Live Site URL: [KODEGOPH-PROJECT-1](https://boymelvs.github.io/clock)
+-  Live Site URL: [ANALOG CLOCK](https://boymelvs.github.io/clock)
 
 ### Built with
 
