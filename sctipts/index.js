@@ -15,13 +15,14 @@ const createDial = () => {
 
 const setTime = () => {
    const newDate = new Date();
+
    const seconds = newDate.getSeconds();
    const minutes = newDate.getMinutes();
    const hours = newDate.getHours();
 
    const secDeg = seconds * 6 + 90;
    const minDeg = minutes * 6 + seconds / 10 + 90;
-   const hourDeg = hours * 6 + minutes / 2 + 90;
+   const hourDeg = hours * 30 + minutes / 2 + 90;
 
    getSecondHand.style.transform = `rotate(${secDeg}deg)`;
    getMinuteHand.style.transform = `rotate(${minDeg}deg)`;
